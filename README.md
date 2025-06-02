@@ -3,6 +3,7 @@ Ce projet est le TIPE que j'ai eu l'occasion de mener lors de ma 3e année de cl
 | ![Schéma de la stratégie de résolution](https://github.com/CyriaquePerier/TIPE-de-Cyriaque-PERIER-2025-/blob/main/images/stratégie_pattern_matching.jpeg?raw=true)
 |:--:| 
 | * Schéma de la stratégie de résolution *
+
 | ![Exemple de résolution](https://github.com/CyriaquePerier/TIPE-de-Cyriaque-PERIER-2025-/blob/main/images/tigrou_exemple.jpeg?raw=true)
 |:--:| 
 | * Exemple de résolution *
