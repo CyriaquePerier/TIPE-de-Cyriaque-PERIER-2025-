@@ -2,9 +2,6 @@ import PIL.Image
 import numpy as np
 import cv2
 import os
-import sqlite3
-from collections import deque
-from concurrent.futures import ThreadPoolExecutor, as_completed
 from core.puzzle import Puzzle, PuzzleSolver
 
 DBB_SRC = "/Users/cyriaqueperier/Documents/TIPE 2/bdd_yggdrasil.db"
